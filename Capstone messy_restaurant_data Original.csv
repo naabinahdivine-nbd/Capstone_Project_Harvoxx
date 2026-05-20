@@ -1,0 +1,46 @@
+Customer,Restaurant,Dish Ordered,Rating,Date of Visit,Feedback,Price of Dish Ordered,Quantity
+Chris Smith,McDonalds,Sushi,,,,5,4
+Sarah Rodriguez,Burger King,Pasta,1,22/01/2023,Good service,20,3
+,,,,,,5,1
+Jane Brown,McDonalds,Fries,2,24/01/2023,Good service,5,1
+Michael Johnson,McDonalds,,4,21/01/2023,Good service,5,1
+ Emily Garcia ,McDonalds,Nuggets,1,03/02/2023,,25,5
+Sarah Williams,McDonalds,Taco,5,14/01/2023,Good service,10,4
+ James Rodriguez ,Dominos,Sushi,2,04/02/2023,Good service,20,5
+ Jane Martinez ,Subway,Pasta,1,01/02/2023,,25,4
+  ,KFC,Salad,3,,,25,5
+ Emily Miller ,McDonalds,Taco,1,31/01/2023,Good service,25,5
+ James Rodriguez ,Dominos,Sushi,2,04/02/2023,Good service,25,3
+James Brown,McDonalds,Sushi,1,15/01/2023,Good service,25,5
+James Jones,,Fries,,18/01/2023,Good service,15,2
+James Martinez,KFC,Salad,1,03/01/2023,Good service,20,3
+Alex Smith,Dominos,Fries,,26/01/2023,Good service,25,5
+,,,,,,20,1
+James Garcia,Burger King,,4,25/01/2023,Good service,15,2
+,,,,,,15,2
+,KFC,Salad,3,02/02/2023,Good service,20,2
+ Emily Garcia ,McDonalds,Sandwich,3,,,5,3
+ Sarah Jones ,Burger King,Fries,1,23/01/2023,Good service,10,5
+Alex Davis,Dominos,Sandwich,1,04/01/2023,,5,
+Katie Martinez,Subway,Sushi,5,,Good service,,1
+ Katie Jones ,Subway,Sandwich,4,08/01/2023,,5,1
+,,,,,,25,
+ Jane Brown ,,Nuggets,1,20/01/2023,Good service,15,1
+ Sarah Rodriguez ,Burger King,Pasta,1,22/01/2023,Good service,5,
+ James Brown ,Dominos,Sandwich,4,01/01/2023,Good service,,5
+  ,Burger King,Burger,3,19/01/2023,,,2
+Michael Williams,McDonalds,Sushi,3,16/01/2023,Good service,10,1
+Katie Jones,Subway,Sandwich,4,08/01/2023,,20,3
+  ,Burger King,Burger,3,19/01/2023,,20,3
+ Jane Miller ,McDonalds,Pizza,,29/01/2023,Good service,25,1
+ Laura Jones ,KFC,,1,05/01/2023,Good service,10,
+ Laura Jones ,,Wrap,1,02/01/2023,Good service,20,1
+Emily Johnson,KFC,Sandwich,2,27/01/2023,Good service,20,2
+,,,,,,10,1
+  ,Dominos,Fries,1,13/01/2023,,,3
+ Laura Williams ,Subway,Pasta,1,07/01/2023,,20,1
+ Sarah Williams ,McDonalds,Taco,5,14/01/2023,Good service,10,5
+Chris Williams,McDonalds,Sandwich,2,17/01/2023,Good service,20,4
+ Katie Johnson ,,Pasta,1,10/01/2023,Good service,20,1
+ Jane Garcia ,Subway,Burger,5,09/01/2023,Good service,25,5
+Sarah Miller,Dominos,,3,12/01/2023,Good service,5,5
